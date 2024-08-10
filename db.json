@@ -1,5 +1,4 @@
-{
-    "languages": [
+[
         {
             "direction": "ltr",
             "locale": "en",
@@ -10,4 +9,3 @@
             "default": true
         }
     ]
-}
