@@ -1,0 +1,13 @@
+{
+  "languages": [
+    {
+      "direction": 'ltr',
+      "locale": 'en',
+      "name": 'English',
+      "nativeLabel": 'English',
+      "order": 1,
+      "active": true,
+      "default": true,
+    }
+  ]
+}
